@@ -116,7 +116,7 @@ body {
   align-items: center;              /* ✨ Centrado vertical de imagen y texto */
   gap: 10px;                        /* ✨ Espacio más moderado entre imagen y texto */
   border: 2px solid var(--color-terciario);
-  width: 55%;
+  width: 60%;
   border-radius: 8px;
   font-size: 1.5rem;
   font-weight: 600;
